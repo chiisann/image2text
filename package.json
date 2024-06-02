@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@google-cloud/functions-framework": "^3.0.0",
+    "@google-cloud/documentai": "^8.6.0",
+    "@google-cloud/storage": "^7.11.0",
+    "node-fetch": "^3.3.2"
+  }
+}
