@@ -1,6 +1,6 @@
 //
 // Description: This function is used to extract text from an image of a book cover.
-//
+// This file is on the cloud function side.
 
 /**
  * 
