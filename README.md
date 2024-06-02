@@ -2,7 +2,7 @@
 
 ## About
 
-本の表紙画像から書籍情報を抽出する AI を Document AI を用いて作成した。
+本の表紙画像から書籍情報を抽出する AI を [Document AI](https://cloud.google.com/document-ai?hl=ja) を用いて作成した。
 また、作成した AI を呼び出すための API を作成し、cloud functions にデプロイした。
 さらに、デプロイした関数を呼び出すためのスクリプトを作成した。
 
