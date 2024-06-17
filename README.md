@@ -58,7 +58,3 @@ node .\image2text-test.mjs
 ```
 
 [画像引用](https://www.akishobo.com/book/detail.html?id=1071)
-
-```
-
-```
