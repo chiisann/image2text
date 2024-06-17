@@ -16,14 +16,14 @@
 
 ![input image](./img/0000009.jpg)
 
-````cmd
+```cmd
  node .\image2text-test.mjs
 {
   title: 'THE HARE\nWITH\nAMBER\nEYES\nA HIDDEN\nINHERITANCE',
   authors: [ 'EDMUND DE WAAL' ],
   subtitles: [ 'A HIDDEN\nINHERITANCE' ]
 }
-
+```
 
 ### 例 2
 
@@ -43,7 +43,7 @@
   ],
   subtitles: [ "An Engineer's Field Guide\nto Technical Writing" ]
 }
-````
+```
 
 [画像引用](https://pub.jmam.co.jp/book/b622627.html)
 
@@ -58,3 +58,7 @@ node .\image2text-test.mjs
 ```
 
 [画像引用](https://www.akishobo.com/book/detail.html?id=1071)
+
+```
+
+```
