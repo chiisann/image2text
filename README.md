@@ -12,11 +12,49 @@
 
 ## Quick Start
 
+### 例 1
+
+![input image](./img/0000009.jpg)
+
+````cmd
+ node .\image2text-test.mjs
+{
+  title: 'THE HARE\nWITH\nAMBER\nEYES\nA HIDDEN\nINHERITANCE',
+  authors: [ 'EDMUND DE WAAL' ],
+  subtitles: [ 'A HIDDEN\nINHERITANCE' ]
+}
+
+
+### 例 2
+
+![input image](./img/2.jpg)
+
+```cmd
+ node .\image2text-test.mjs
+{
+  title: 'エンジニアのための\nドキュメント\nライティング',
+  authors: [
+    'ジャレッド・バーティ',
+    'ザッカリー・サラ・コーライセン',
+    'ジェン・ランボーン',
+    'デービッド・ヌーニェス',
+    'ハイディ・ウォーターハウス著',
+    '岩瀬義昌 訳'
+  ],
+  subtitles: [ "An Engineer's Field Guide\nto Technical Writing" ]
+}
+````
+
+[画像引用](https://pub.jmam.co.jp/book/b622627.html)
+
+### 例 3
+
+![input image](./img/1.jpg)
+
 ```cmd
 node .\image2text-test.mjs
-{
-  title: 'THE\nORIGINAL\nSGREENPLAY',
-  authors: [ 'JK ROWLING' ],
-  subtitles: [ 'THE\nORIGINAL\nSGREENPLAY' ]
-}
+{ title: '優しい地獄', authors: [ 'イリナ・グリゴレ' ], subtitles: [] }
+
 ```
+
+[画像引用](https://www.akishobo.com/book/detail.html?id=1071)
